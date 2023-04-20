@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js backend developer**
 
-- 👨‍💻 All of my projects are available at [http://rabhamonojoy.github.io](http://rabhamonojoy.github.io)
+- 👨‍💻 All of my projects are available at https://rabhamonojoy.github.io/
 
 - 💬 Ask me about **javaScript,Node.js,Express.js and mongoDB**
 
